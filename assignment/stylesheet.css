@@ -1,14 +1,16 @@
-header {
-    background-color:black;
-    color: rgb(255, 67, 224);
-    text-align: center;
+.headerStyle {
+  background-color: black;
+  color: rgb(255, 67, 224);
+  text-align: center;
 }
-main {
-    background-color: lightgray;
-    padding:1em
+.mainStyle {
+  background-color: lightgray;
+  padding: 1em;
+}
+.bodyStyle {
+  background-image: url(record.png);
+  background-repeat: repeat;
 }
 body {
-    background-image: url(record.png);
-    background-repeat: repeat;
-    margin:0px ;
+  margin: 0px;
 }
