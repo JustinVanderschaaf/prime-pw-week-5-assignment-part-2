@@ -14,3 +14,8 @@
 body {
   margin: 0px;
 }
+.questions {
+    color: rgb(255, 67, 161);
+    font-weight:bolder;
+    font-size: x-large;
+}
